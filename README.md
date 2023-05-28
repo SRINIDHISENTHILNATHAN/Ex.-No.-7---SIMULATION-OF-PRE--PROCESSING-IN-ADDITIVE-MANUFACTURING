@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SRINIDHISENTHILNATHAN/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121373170/a03b7716-3d6a-43d5-a8a5-92968e80c076)
+
+### Name:SRINIDHI SENTHIL 
+### Register Number:212222230148
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
